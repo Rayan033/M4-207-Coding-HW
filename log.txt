@@ -1,6 +1,9 @@
-eba44c8 (HEAD -> main) Task 2.2 extracting volume credits
-e14f549 (origin/main, origin/HEAD) Task 2.1 log.txt update done
+f3756c0 (HEAD -> main) Task 2.3 removing frmt variable done
+a63df71 (origin/main, origin/HEAD) Task 2.2 updating log.txt
+eba44c8 Task 2.2 extracting volume credits
+e14f549 Task 2.1 log.txt update done
 e078d70 Task 2.1 refactoring done
 a7e9cd5 Task 1.2 git log output done
 fd4d75a Task 1.1 Checkstyle errors fixed.
 c58f6d2 Initial commit
+
