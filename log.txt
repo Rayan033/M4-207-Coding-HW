@@ -1,2 +1,4 @@
-fd4d75a (HEAD -> main, origin/main, origin/HEAD) Task 1.1 Checkstyle errors fixed.
+e078d70 (HEAD -> main, origin/main, origin/HEAD) Task 2.1 refactoring done
+a7e9cd5 Task 1.2 git log output done
+fd4d75a Task 1.1 Checkstyle errors fixed.
 c58f6d2 Initial commit
